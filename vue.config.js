@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: "/pyrack",
+    publicPath: "/docs",
     outputDir: "docs"
   };
